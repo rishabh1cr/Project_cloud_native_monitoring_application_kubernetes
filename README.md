@@ -13,7 +13,7 @@
 5. Learn Kubernetes and Create EKS cluster and Nodegroups
 6. Create Kubernetes Deployments and Services using Python!
 ```
-
+Credits: Cloud Champ
 # **Youtube Video for step by step Demonstration!**
 https://youtu.be/kBWCsHEcWnc
 
